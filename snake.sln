@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake", "snake\snake.csproj", "{0FCC8040-6006-4DA2-93A2-9F15F59F82EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeBase", "SnakeBase\SnakeBase.csproj", "{629E1D4E-C70F-4ED3-85CE-2194190965A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCC8040-6006-4DA2-93A2-9F15F59F82EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCC8040-6006-4DA2-93A2-9F15F59F82EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCC8040-6006-4DA2-93A2-9F15F59F82EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCC8040-6006-4DA2-93A2-9F15F59F82EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629E1D4E-C70F-4ED3-85CE-2194190965A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629E1D4E-C70F-4ED3-85CE-2194190965A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629E1D4E-C70F-4ED3-85CE-2194190965A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629E1D4E-C70F-4ED3-85CE-2194190965A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
